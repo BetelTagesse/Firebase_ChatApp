@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "566905350820",
+    "project_id": "fir-chatapp-ef231",
+    "storage_bucket": "fir-chatapp-ef231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566905350820:android:f8dc69af083e82fa93d431",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_fireb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRu7Sf2aKoWgXW4zJ5FNUP3fKlVJqffg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566905350820:android:594440ace198785693d431",
+        "android_client_info": {
+          "package_name": "com.example.firebasechatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRu7Sf2aKoWgXW4zJ5FNUP3fKlVJqffg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566905350820:android:86c0d827b60dff7293d431",
+        "android_client_info": {
+          "package_name": "com.example.firebasechatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRu7Sf2aKoWgXW4zJ5FNUP3fKlVJqffg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
